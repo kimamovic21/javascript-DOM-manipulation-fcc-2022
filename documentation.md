@@ -13,3 +13,21 @@ What is DOM ?
 -Is one of the most unique and useful tools of Javascript
 
 
+
+
+Selecting elements in DOM
+Styling an element
+Creating an element
+Adding elements
+Modify text
+Modifying elements attributes and classes
+Remove an element
+Traversing the DOM
+Event Listeners
+Evenet Listeners Example
+Event Propagation - 3 phases
+1. Event capturing
+2. Target
+3. Event bubbling
+
+video 52:35

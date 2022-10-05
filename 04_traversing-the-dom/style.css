@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #efefef;
+    color: #333;
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 700px;
+    padding: 50px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+li {
+    padding: 10px;
+    border: 2px solid #333;
+    list-style-type: none;
+    cursor: pointer;
+    margin-top: 10px;
+    background-color: rgb(218, 215, 215);
+    text-align: center;
+    font-weight: bold;
+    border-radius: 10px;
+}
