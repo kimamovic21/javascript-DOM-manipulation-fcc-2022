@@ -30,4 +30,3 @@ Event Propagation - 3 phases
 2. Target
 3. Event bubbling
 
-video 52:35
